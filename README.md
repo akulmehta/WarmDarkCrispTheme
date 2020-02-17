@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "warmdarkcrisp"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# A Warm Dark and Crisp Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is a warm dark theme which is derived from the Kimbie Dark theme. The theme is made darker, keeping its warm roots from Kimbie Dark. The comment colors are also made brighter for better reading. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshot
+HTML
+![HTML screenshot of theme](https://raw.githubusercontent.com/akulmehta/WarmDarkCrispTheme/master/img/htmlscreenshot.png)
+Javascript
+![JavaScript screenshot of theme](https://raw.githubusercontent.com/akulmehta/WarmDarkCrispTheme/master/img/javascriptscreenshot.png)
 
 **Enjoy!**
