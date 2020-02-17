@@ -1,0 +1,22 @@
+{
+    "name": "warmdarkcrisp",
+    "displayName": "WarmDarkCrisp",
+    "publisher": "akulmehta",
+    "description": "A warm dark crisp theme extended from Kimbie Dark. This has better comment colors and darker background for more clarity of the text.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Warm Dark Crisp",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Warm Dark Crisp-color-theme.json"
+            }
+        ]
+    }
+}
